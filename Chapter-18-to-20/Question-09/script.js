@@ -7,5 +7,5 @@ for (let i = 0; i < A.length; i++) {
     }
 }
 
-document.write(`Array items: ${A}`);
+document.write(`Array items: ${A} <br/>`);
 document.write(`The largest number is ${largestNum}`);
