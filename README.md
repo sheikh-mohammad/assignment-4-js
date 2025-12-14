@@ -54,3 +54,13 @@ Through this assignment, the following JavaScript concepts were practiced:
 ## Notes
 
 This code represents my learning journey and understanding of JavaScript fundamentals. It is intended for educational purposes as part of the Techno Kids Batch 7 training program.
+
+## License
+
+This assignment is provided under specific terms and conditions as outlined in the [LICENSE](./LICENSE) file. This work is intended solely for educational purposes to demonstrate understanding of JavaScript concepts.
+
+Please note:
+- This assignment is for educational and review purposes only
+- Copying, modifying, or using these solutions for your own academic submissions is strictly prohibited
+- This assignment should not be submitted as your own work for any academic assessment
+- By using this assignment, you acknowledge and agree to the academic integrity policies detailed in the LICENSE file
