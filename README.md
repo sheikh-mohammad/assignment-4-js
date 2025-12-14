@@ -11,7 +11,6 @@ This repository contains solutions for JavaScript Assignment 4 from the Saylani 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Learning Outcomes](#learning-outcomes)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -96,10 +95,6 @@ Through this assignment, the following JavaScript concepts were practiced:
 - Basic HTML and JavaScript integration
 - User input handling
 - Algorithm implementation (sorting, searching)
-
-## Contributing
-
-This repository is maintained as part of the Saylani Mass IT Training program. For educational purposes, feel free to fork this repository and use it for learning.
 
 ## Notes
 
